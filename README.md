@@ -3,6 +3,7 @@
 Configuration File :
 conf/app.properties
 
+MYSQL auto create database and tables if doesnt exist;
 
 EDITOR : Intellij IDEA 
 
